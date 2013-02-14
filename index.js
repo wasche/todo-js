@@ -1,4 +1,4 @@
 exports = module.exports = {
-  Task: require('./lib/Task')
-, TaskList: require('./lib/TaskList')
+  Task: require('./lib/task')
+, TaskList: require('./lib/taskList')
 };
