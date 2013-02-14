@@ -1,0 +1,20 @@
+{
+  "name": "todo-lib"
+, "version": "0.0.1"
+, "description": "todo.txt parsing/writing library"
+, "homepage": ""
+, "bugs": ""
+, "author": "Wil Asche <kurakin+todo-lib@gmail.com>"
+, "repository": {
+    "type": "git"
+  , "url": ""
+  }
+, "dependencies": {
+  }
+, "devDependencies": {
+    "mocha": "~1.8.1"
+  , "should": "~1.2.1"
+  }
+, "main": "./index.js"
+, "private": false
+}
